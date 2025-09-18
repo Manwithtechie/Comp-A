@@ -1,0 +1,13 @@
+DEBUG:root:This is some detailed information for diagnosing problems
+INFO:root:This is some information confirming things are working as expected
+WARNING:root:This is a warning of something unexpected happened, or indicative of some problem
+ERROR:root:This is more serious problem and the program is not able to perform some function
+CRITICAL:root:This is a serious error, the program itself may be unable to continue running.
+DEBUG:root:This is some detailed information for diagnosing problems
+INFO:root:This is some information confirming things are working as expected
+WARNING:root:This is a warning of something unexpected happened, or indicative of some problem
+ERROR:root:This is more serious problem and the program is not able to perform some function
+CRITICAL:root:This is a serious error, the program itself may be unable to continue running.
+DEBUG:root:Total after GST: 275.0
+DEBUG:root:Applied 5% discount
+INFO:root:Final total amount: 261.25
